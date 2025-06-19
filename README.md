@@ -106,8 +106,6 @@ Baseline performance is compared with a majority-class predictor and zero-shot i
 ├── Project_Code_Final.ipynb     # Main notebook with full pipeline
 ├── Final Report.pdf             # Full technical report
 ├── README.md                    # This file
-├── data/                        # Folder for AfriSenti datasets (not included)
-└── outputs/                     # Folder for results, logs, visualizations
 ```
 
 ---
@@ -118,4 +116,4 @@ Baseline performance is compared with a majority-class predictor and zero-shot i
 - Fhulufhelo Tshivhula  
 - Jano Esterhuizen  
 
-Group 40 — University of Pretoria, COS760
+University of Pretoria, COS760
