@@ -106,6 +106,7 @@ Baseline performance is compared with a majority-class predictor and zero-shot i
 ├── Project_Code_Final.ipynb     # Main notebook with full pipeline
 ├── Final Report.pdf             # Full technical report
 ├── README.md                    # This file
+├── project_code_final.py        # Full codebase used for experiments and running code
 ```
 
 ---
